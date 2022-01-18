@@ -11,4 +11,4 @@ Data Sets:
 
 You can find respective source files in .txt format here
 
-I also provide a .csv file that consolidates above data set.
+I also provide a .csv file that consolidates above data sets.
