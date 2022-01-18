@@ -1,4 +1,4 @@
-# BiomedicalText
+# Biomedical Text
 Data sets I curated from Gold Standard to facilitate my work on Causal Relation Extraction between Biomedical Entities.
 
 Source: Corpora in Stav (http://corpora.informatik.hu-berlin.de)
